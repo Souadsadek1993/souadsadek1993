@@ -1,6 +1,11 @@
 <h1 align="center">Hi 😍, I'm suad alsadek</h1>
 <h3 align="center">A passionate frontend developer from syria bu i live in turkiye ❤️, İ am studing in Istanbul University Web Design and Development✌️</h3>
 
+- ⭕ I’m currently learning **react js and next js**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Souadsadek1993](https://github.com/Souadsadek1993)
+
+- 😎 How to reach me **susitasadek1993@gmail.com**
 
 
 <div align="center">
@@ -11,11 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souadsadek1993&theme=dark&bg_color=0D1117&title_color=E34F26&text_color=C9D1D9&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 <br>
-- ⭕ I’m currently learning **react js and next js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Souadsadek1993](https://github.com/Souadsadek1993)
-
-- 😎 How to reach me **susitasadek1993@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
