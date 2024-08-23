@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😍, I'm suad alsadek</h1>
-<h3 align="center">A passionate frontend developer from syria bu i live in turkiye ❤️, İ am studing in Istanbul University Web Design and Development✌️</h3>
+<h3 align="center">A passionate frontend developer from syria but i live in turkiye ❤️, İ am studing in Istanbul University Web Design and Development✌️</h3>
 
 - ⭕ I’m currently learning **react js and next js**
 
