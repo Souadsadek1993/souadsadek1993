@@ -3,10 +3,14 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souadsadek1993&label=Profile%20views&color=0e75b6&style=flat" alt="souadsadek1993" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souadsadek1993" alt="souadsadek1993" /></a> </p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Souadsadek1993&theme=dark&bg_color=0D1117&title_color=E34F26&text_color=C9D1D9&hide_border=true&show_icons=true&icon_color=E34F26" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souadsadek1993&theme=dark&background=0D1117&ring=E34F26&fire=E34F26&currStreakLabel=C9D1D9&sideLabels=C9D1D9&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souadsadek1993&theme=dark&bg_color=0D1117&title_color=E34F26&text_color=C9D1D9&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+<br>
 - ⭕ I’m currently learning **react js and next js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Souadsadek1993](https://github.com/Souadsadek1993)
