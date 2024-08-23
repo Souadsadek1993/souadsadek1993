@@ -11,9 +11,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Souadsadek1993&theme=dark&bg_color=0D1117&title_color=E34F26&text_color=C9D1D9&hide_border=true&show_icons=true&icon_color=E34F26" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souadsadek1993&theme=dark&background=0D1117&ring=E34F26&fire=E34F26&currStreakLabel=C9D1D9&sideLabels=C9D1D9&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souadsadek1993&theme=dark&background=0D1117&ring=E34F26&fire=E34F26&currStreakLabel=4263eb9&sideLabels=C9D1D9&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souadsadek1993&theme=dark&bg_color=0D1117&title_color=E34F26&text_color=C9D1D9&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souadsadek1993&theme=dark&bg_color=4263eb&title_color=E34F26&text_color=4263eb&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 <br>
 
