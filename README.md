@@ -1,3 +1,15 @@
+<div align="center">
+  <a href="https://www.linkedin.com/in/suad-sadek-0920aa307/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https:/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://x.com/suad19931611" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
+
 <h1 align="center">Hi 😍, I'm suad alsadek</h1>
 <h3 align="center">A passionate frontend developer from syria but i live in turkiye ❤️, İ am studing in Istanbul University Web Design and Development✌️</h3>
 
@@ -6,6 +18,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Souadsadek1993](https://github.com/Souadsadek1993)
 
 - 😎 How to reach me **susitasadek1993@gmail.com**
+
 
 
 <div align="center">
