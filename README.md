@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😍, I'm suad alsadek</h1>
 <h3 align="center">A passionate frontend developer from syria bu i live in turkiye ❤️, İ am studing in Istanbul University Web Design and Development✌️</h3>
 
-![alt text](image.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souadsadek1993&label=Profile%20views&color=0e75b6&style=flat" alt="souadsadek1993" /> </p>
 
